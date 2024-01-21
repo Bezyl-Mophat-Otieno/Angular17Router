@@ -1,0 +1,8 @@
+.active{
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    font-weight: bold;
+    padding-bottom: 5px;    
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+}
